@@ -36,3 +36,7 @@ ul {
 li {
   margin: 5px 0;
 }
+div.output {
+  background: rgb(199, 198, 198);
+  padding: 10px;
+}
